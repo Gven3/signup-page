@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+
+
+.mainphoto {
+    width: 39vw;
+    height: 100vh;
+    display: inline-block;
+    position: fixed;
+}
+
+.SignUpText {
+    width: 434px;
+    height: 734px;
+    margin-right: 230px;
+    margin-top: 60px;
+    float: right;
+}
+
+.logo{
+    position: fixed;
+}
+
+.createacc{
+    text-align: center;
+    vertical-align: top;
+    font-size: 30px;
+}
+
+.trivomember {
+    font-size: 18px;
+    color: #949494;
+}
+
+input[type=text]{
+    width: 433px;
+    height: 60px;
+    border-color: #949494;
+}
+input[type=email]{
+    width: 433px;
+    height: 60px;
+    border-color: #949494;
+}
+input[type=password]{
+    width: 433px;
+    height: 60px;
+    border-color: #949494;
+}
+
+.createbutt {
+    width: 433px;
+    height: 60px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #4443FF;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.createbutt:hover {
+    background-color: #0000a1;
+}
+
+.textacc{
+    color: #fff;
+    font-size: 20px;
+}
+
+.signingoogle {
+    width: 433px;
+    height: 60px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #fff;
+    border-color: #0000a1;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.signingoogle:hover {
+    background-color: rgb(68, 16, 120);
+}
+
+.signintext{
+    color: rgb(35, 68, 233);
+}
